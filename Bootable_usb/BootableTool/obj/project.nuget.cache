@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pDNwofdDhHo=",
+  "success": true,
+  "projectFilePath": "D:\\Bootable_usb\\BootableTool\\BootableTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Test\\.nuget\\packages\\system.management\\10.0.12\\system.management.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
