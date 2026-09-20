@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootable_usb\\BootableTool\\BootableTool.csproj": {}
+    "C:\\Users\\admin\\OneDrive\\Documents\\Bootable_usb\\BootableTool\\BootableTool.csproj": {}
   },
   "projects": {
-    "D:\\Bootable_usb\\BootableTool\\BootableTool.csproj": {
+    "C:\\Users\\admin\\OneDrive\\Documents\\Bootable_usb\\BootableTool\\BootableTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootable_usb\\BootableTool\\BootableTool.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Documents\\Bootable_usb\\BootableTool\\BootableTool.csproj",
         "projectName": "BootableTool",
-        "projectPath": "D:\\Bootable_usb\\BootableTool\\BootableTool.csproj",
-        "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootable_usb\\BootableTool\\obj\\",
+        "projectPath": "C:\\Users\\admin\\OneDrive\\Documents\\Bootable_usb\\BootableTool\\BootableTool.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\OneDrive\\Documents\\Bootable_usb\\BootableTool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Test\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0-windows"

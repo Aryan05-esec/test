@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Bootable_usb\\Boot_usb.c\\Boot_usb.c.csproj": {}
+    "C:\\Users\\admin\\OneDrive\\Documents\\Bootable_usb\\Boot_usb.c\\Boot_usb.c.csproj": {}
   },
   "projects": {
-    "D:\\Bootable_usb\\Boot_usb.c\\Boot_usb.c.csproj": {
+    "C:\\Users\\admin\\OneDrive\\Documents\\Bootable_usb\\Boot_usb.c\\Boot_usb.c.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Bootable_usb\\Boot_usb.c\\Boot_usb.c.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Documents\\Bootable_usb\\Boot_usb.c\\Boot_usb.c.csproj",
         "projectName": "Boot_usb.c",
-        "projectPath": "D:\\Bootable_usb\\Boot_usb.c\\Boot_usb.c.csproj",
-        "packagesPath": "C:\\Users\\Test\\.nuget\\packages\\",
-        "outputPath": "D:\\Bootable_usb\\Boot_usb.c\\obj\\",
+        "projectPath": "C:\\Users\\admin\\OneDrive\\Documents\\Bootable_usb\\Boot_usb.c\\Boot_usb.c.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\OneDrive\\Documents\\Bootable_usb\\Boot_usb.c\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Test\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
